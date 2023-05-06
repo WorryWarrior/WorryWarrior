@@ -8,6 +8,11 @@
  - Unity (See [CV](CV/CV.md) for detailed information and background)
  - C#
 
+#### Familiar with:
+- Programming patterns application in Unity
+- SOLID principles application in Unity
+- Git-flow methodology
+
 #### Currently Exploring:
 - Unity multithreaded solutions with Job system
 - Integrating DI frameworks in Unity project architecture
