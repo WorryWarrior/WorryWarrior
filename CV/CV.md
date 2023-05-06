@@ -1,6 +1,6 @@
 ## Background
 
-My expertise in commercial Game Development - 2 years.
+My experience in ***commercial*** Game Development - 2 years.
 
 A selection of projects I have worked on as a part of the studio or as a pet project at my leisure is listed below in 
 order of relevance.
