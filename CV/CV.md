@@ -5,7 +5,7 @@ My experience in ***commercial*** Game Development - 2 years.
 A selection of projects I have worked on as a part of the studio or as a pet project at my leisure is listed below in 
 order of relevance.
 
-- ## [Ollie Games](https://hh.ru/employer/5473508)
+## [Ollie Games](https://hh.ru/employer/5473508)
 
 [Google Play publisher account](https://play.google.com/store/apps/dev?id=8430734859869948610)
 
@@ -15,19 +15,19 @@ order of relevance.
 - [Road Connect 2](https://play.google.com/store/apps/details?id=com.OllieGames.RoadConnect)
 - Mining Quarry
 
-- ## [GDR Studio](https://hh.ru/employer/3269178)
+## [GDR Studio](https://hh.ru/employer/3269178)
 
 Most of the following projects' Google Play pages were lost after the associated publisher account had been deleted 
 so the links showcase project gameplay recording instead. The following is a selection of most successful projects.
 
-   - [Homeless Life](https://youtube.com/shorts/O4ab5Ml8MBU)
-   - [Love Lasso](https://youtu.be/WusKZeaDlsI)
-   - [Mutants vs Giants](Resources/Images/Mutants_vs_Giants)
-   - [Shaping](https://youtu.be/EZ1Y8dZ1bUg)
-   - [Story Puzzle](https://youtu.be/vm7-1sYJ4ic)
-   - [Wall Runner](https://youtu.be/BH6ZPaDZTJ8)
+- [Homeless Life](https://youtube.com/shorts/O4ab5Ml8MBU)
+- [Love Lasso](https://youtu.be/WusKZeaDlsI)
+- [Mutants vs Giants](Resources/Images/Mutants_vs_Giants)
+- [Shaping](https://youtu.be/EZ1Y8dZ1bUg)
+- [Story Puzzle](https://youtu.be/vm7-1sYJ4ic)
+- [Wall Runner](https://youtu.be/BH6ZPaDZTJ8)
 
-- ## Side Projects
+## Side Projects
 
 A set of projects for exercising in applied project architecture design, solving common problems and tech research.
 
