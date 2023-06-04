@@ -13,7 +13,7 @@ order of relevance.
 - [UFO Catcher](https://play.google.com/store/apps/details?id=com.OllieGames.UFOCatcher)
 - [Race Engineer Idle](https://play.google.com/store/apps/details?id=com.OllieGames.RaceEngineerIdle)
 - [Road Connect 2](https://play.google.com/store/apps/details?id=com.OllieGames.RoadConnect)
-- Mining Quarry
+- [Mining Quarry](https://play.google.com/store/apps/details?id=com.GPG.MiningQuarry)
 
 ## [GDR Studio](https://hh.ru/employer/3269178)
 
