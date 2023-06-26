@@ -33,7 +33,7 @@ A set of projects for exercising in applied project architecture design, solving
 
 - [D_Framework](https://github.com/WorryWarrior/D_Framework)
 - [D_Tools](https://github.com/WorryWarrior/D_Tools)
-- Boids algorithm research - WIP
+- [Boids algorithm research](https://github.com/WorryWarrior/BoidsResearch)
 
 ## Assets
 

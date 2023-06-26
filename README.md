@@ -15,13 +15,14 @@
 
 #### Currently Exploring:
 - Unity multithreaded solutions with Job system
+- Employing ECS approach in Unity development
 - Integrating DI frameworks in Unity project architecture
 - Using Addressables in Unity projects
 
 #### Can also do:
  - Kotlin (Simple native Android, Client-Server applications)
  - Python (Desktop applications)
- - SQL (Basic PostgreSQL skills)
+ - SQL (Basic PostgreSQL)
  - MATLAB (Visualization and numeric computations)
 
 <!--
