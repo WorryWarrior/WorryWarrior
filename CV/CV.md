@@ -9,29 +9,31 @@ order of relevance.
 
 [Google Play publisher account](https://play.google.com/store/apps/dev?id=8430734859869948610)
 
-- [Goal Kick Idle](https://play.google.com/store/apps/details?id=com.OllieGames.GoalKickASMR)
-- [UFO Catcher](https://play.google.com/store/apps/details?id=com.OllieGames.UFOCatcher)
-- [Race Engineer Idle](https://play.google.com/store/apps/details?id=com.OllieGames.RaceEngineerIdle)
-- [Road Connect 2](https://play.google.com/store/apps/details?id=com.OllieGames.RoadConnect)
+- [Goal Kick Idle](https://apkpure.com/ru/goal-kick-asmr/com.OllieGames.GoalKickASMR)
+- [UFO Catcher](https://apkpure.com/ru/ufo-catcher/com.OllieGames.UFOCatcher)
+- [Race Engineer Idle](https://apkpure.com/ru/race-engineer-idle/com.OllieGames.RaceEngineerIdle)
+- [Road Connect 2](https://apkpure.com/ru/road-connect/com.OllieGames.RoadConnect)
 - [Mining Quarry](https://play.google.com/store/apps/details?id=com.GPG.MiningQuarry)
 
 ## [GDR Studio](https://hh.ru/employer/3269178)
 
-Most of the following projects' Google Play pages were lost after the associated publisher account had been deleted 
-so the links showcase project gameplay recording instead. The following is a selection of most successful projects.
-
 - [Homeless Life](https://youtube.com/shorts/O4ab5Ml8MBU)
-- [Love Lasso](https://youtu.be/WusKZeaDlsI)
+- [Bed Escape](https://apkpure.com/ru/leave-the-bed/com.HardCoreUnicorn.LeaveTheBed)
+- [Itch a Scratch](https://apkpure.com/ru/itch-a-scratch/com.HardcoreUnicorn.ItchAScratch)
+- [Arcade Idle Jail](https://apkpure.com/ru/arcade-idle-jail/com.HardCoreUnicorn.JailMaster)
+- [Bullet Drawing](https://apkpure.com/ru/bullet-drawing/com.HardCoreUnicorn.BulletDrawing)
+- [Bags Shop](https://apkpure.com/ru/bags-shop/com.HardcoreUnicorn.BagsShop)
+- [Cooking Unicorn](https://apkpure.com/ru/cooking-unicorn/com.HardcoreUnicorn.CookingUnicorn)
+- [Love Lasso](https://apkpure.com/ru/stretch-to-love/com.HardCoreUnicorn.LoveLasso)
 - [Mutants vs Giants](Resources/Images/Mutants_vs_Giants)
-- [Shaping](https://youtu.be/EZ1Y8dZ1bUg)
-- [Story Puzzle](https://youtu.be/vm7-1sYJ4ic)
-- [Wall Runner](https://youtu.be/BH6ZPaDZTJ8)
+- [Shaping](https://apkpure.com/ru/metal-shaping/com.HardCoreUnicorn.Shaping)
+- [Story Puzzle](https://apkpure.com/ru/story-puzzle/com.HardCoreUnicorn.StoryPuzzle)
+- [Wall Runner](https://apkpure.com/ru/swing-master/com.HardCoreUnicorn.SwingMaster)
 
 ## Side Projects
 
 A set of projects for exercising in applied project architecture design, solving common problems and tech research.
 
-- [D_Framework](https://github.com/WorryWarrior/D_Framework)
 - [D_Tools](https://github.com/WorryWarrior/D_Tools)
 - [Boids algorithm research](https://github.com/WorryWarrior/BoidsResearch)
 
@@ -51,7 +53,6 @@ using something new.
 - [Mesh Slicer](https://assetstore.unity.com/packages/tools/modeling/mesh-slicer-59618)
 - [Simple Waypoint System](https://assetstore.unity.com/packages/tools/animation/simple-waypoint-system-2506)
 - [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
-- Various VFX packs
 
 As a part of listed studios I have worked with following publisher SDKs:
 

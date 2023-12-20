@@ -14,9 +14,8 @@
 - Git-flow methodology
 
 #### Currently Exploring:
-- Unity multithreaded solutions with Job system
+- Building service architecture for Unity projects
 - Employing ECS approach in Unity development
-- Integrating DI frameworks in Unity project architecture
 - Using Addressables in Unity projects
 
 #### Can also do:
