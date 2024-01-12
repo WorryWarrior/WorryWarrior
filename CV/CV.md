@@ -9,26 +9,26 @@ order of relevance.
 
 [Google Play publisher account](https://play.google.com/store/apps/dev?id=8430734859869948610)
 
-- [Goal Kick Idle](https://apkpure.com/ru/goal-kick-asmr/com.OllieGames.GoalKickASMR)
-- [UFO Catcher](https://apkpure.com/ru/ufo-catcher/com.OllieGames.UFOCatcher)
-- [Race Engineer Idle](https://apkpure.com/ru/race-engineer-idle/com.OllieGames.RaceEngineerIdle)
-- [Road Connect 2](https://apkpure.com/ru/road-connect/com.OllieGames.RoadConnect)
+- [Goal Kick Idle](https://apkpure.net/ru/goal-kick-asmr/com.OllieGames.GoalKickASMR)
+- [UFO Catcher](https://apkpure.net/ru/ufo-catcher/com.OllieGames.UFOCatcher)
+- [Race Engineer Idle](https://apkpure.net/ru/race-engineer-idle/com.OllieGames.RaceEngineerIdle)
+- [Road Connect 2](https://apkpure.net/ru/road-connect/com.OllieGames.RoadConnect)
 - [Mining Quarry](https://play.google.com/store/apps/details?id=com.GPG.MiningQuarry)
 
 ## [GDR Studio](https://hh.ru/employer/3269178)
 
 - [Homeless Life](https://youtube.com/shorts/O4ab5Ml8MBU)
-- [Bed Escape](https://apkpure.com/ru/leave-the-bed/com.HardCoreUnicorn.LeaveTheBed)
-- [Itch a Scratch](https://apkpure.com/ru/itch-a-scratch/com.HardcoreUnicorn.ItchAScratch)
-- [Arcade Idle Jail](https://apkpure.com/ru/arcade-idle-jail/com.HardCoreUnicorn.JailMaster)
-- [Bullet Drawing](https://apkpure.com/ru/bullet-drawing/com.HardCoreUnicorn.BulletDrawing)
-- [Bags Shop](https://apkpure.com/ru/bags-shop/com.HardcoreUnicorn.BagsShop)
-- [Cooking Unicorn](https://apkpure.com/ru/cooking-unicorn/com.HardcoreUnicorn.CookingUnicorn)
-- [Love Lasso](https://apkpure.com/ru/stretch-to-love/com.HardCoreUnicorn.LoveLasso)
+- [Bed Escape](https://apkpure.net/ru/leave-the-bed/com.HardCoreUnicorn.LeaveTheBed)
+- [Itch a Scratch](https://apkpure.net/ru/itch-a-scratch/com.HardcoreUnicorn.ItchAScratch)
+- [Arcade Idle Jail](https://apkpure.net/ru/arcade-idle-jail/com.HardCoreUnicorn.JailMaster)
+- [Bullet Drawing](https://apkpure.net/ru/bullet-drawing/com.HardCoreUnicorn.BulletDrawing)
+- [Bags Shop](https://apkpure.net/ru/bags-shop/com.HardcoreUnicorn.BagsShop)
+- [Cooking Unicorn](https://apkpure.net/ru/cooking-unicorn/com.HardcoreUnicorn.CookingUnicorn)
+- [Love Lasso](https://apkpure.net/ru/stretch-to-love/com.HardCoreUnicorn.LoveLasso)
 - [Mutants vs Giants](Resources/Images/Mutants_vs_Giants)
-- [Shaping](https://apkpure.com/ru/metal-shaping/com.HardCoreUnicorn.Shaping)
-- [Story Puzzle](https://apkpure.com/ru/story-puzzle/com.HardCoreUnicorn.StoryPuzzle)
-- [Wall Runner](https://apkpure.com/ru/swing-master/com.HardCoreUnicorn.SwingMaster)
+- [Shaping](https://apkpure.net/ru/metal-shaping/com.HardCoreUnicorn.Shaping)
+- [Story Puzzle](https://apkpure.net/ru/story-puzzle/com.HardCoreUnicorn.StoryPuzzle)
+- [Wall Runner](https://apkpure.net/ru/swing-master/com.HardCoreUnicorn.SwingMaster)
 
 ## Side Projects
 
