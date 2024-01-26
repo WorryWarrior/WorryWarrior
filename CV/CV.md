@@ -37,17 +37,18 @@ A set of projects for exercising in applied project architecture design, solving
 - [D_Tools](https://github.com/WorryWarrior/D_Tools)
 - [Boids algorithm research](https://github.com/WorryWarrior/BoidsResearch)
 
-## Frameworks
+## Frameworks & Libraries
 
 In process of working on projects listed above, following frameworks and assets were used. Always looking forward to
 using something new.
 
 - DI - [Zenject](https://github.com/modesttree/Zenject), [VContainer](https://github.com/hadashiA/VContainer)
 - ECS - [Entitas](https://github.com/sschmid/Entitas), [LeoECS Lite](https://github.com/Leopotam/ecslite)
+- Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
+- Misc - [Promises](https://github.com/Real-Serious-Games/C-Sharp-Promise)
 
-## Assets
+## Assets & SDKs
 
-- [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
 - [Obi Rope](https://assetstore.unity.com/packages/tools/physics/obi-rope-55579)
 - [Toony Colors Pro](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105)
 - [Mesh Slicer](https://assetstore.unity.com/packages/tools/modeling/mesh-slicer-59618)
@@ -59,6 +60,10 @@ As a part of listed studios I have worked with following publisher SDKs:
 - Crazy Labs - CLIK
 - Homa Games - Homa Belly
 - Ketchapp - Mayo SDK
+
+## Other
+- Imaginary Roads - Small side project game developed in Unreal Engine - 
+[Game](https://worrywarrior.itch.io/imaginary-roads) / [Gameplay Recording](https://youtu.be/3A6jGfA64D4)
 
 ## Solutions takeaway sources
 
