@@ -37,12 +37,13 @@ A set of projects for exercising in applied project architecture design, solving
 - [D_Tools](https://github.com/WorryWarrior/D_Tools)
 - [Boids algorithm research](https://github.com/WorryWarrior/BoidsResearch)
 
-## Frameworks & Libraries
+## Frameworks, Libraries & Techniques
 
 In process of working on projects listed above, following frameworks and assets were used. Always looking forward to
 using something new.
 
 - DI - [Zenject](https://github.com/modesttree/Zenject), [VContainer](https://github.com/hadashiA/VContainer)
+- Asset Management - [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@1.21)
 - ECS - [Entitas](https://github.com/sschmid/Entitas), [LeoECS Lite](https://github.com/Leopotam/ecslite)
 - Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
 - Misc - [Promises](https://github.com/Real-Serious-Games/C-Sharp-Promise)
