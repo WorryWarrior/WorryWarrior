@@ -5,7 +5,7 @@
  projects development for a living.
 
 #### Primary occupation:
- - Unity (See [CV](CV/CV.md) for detailed information and background)
+ - Unity (See [CV (English)](CV/CV_EN.md) / [CV (Russian)](CV/CV_RU.md) for detailed information and background)
  - C#
 
 #### Familiar with:
