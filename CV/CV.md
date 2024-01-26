@@ -56,11 +56,12 @@ using something new.
 - [Simple Waypoint System](https://assetstore.unity.com/packages/tools/animation/simple-waypoint-system-2506)
 - [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
 
-As a part of listed studios I have worked with following publisher SDKs:
+As a part of listed studios I have worked with following SDKs:
 
-- Crazy Labs - CLIK
-- Homa Games - Homa Belly
-- Ketchapp - Mayo SDK
+- [GameAnalytics](https://gameanalytics.com)
+- Crazy Labs Publisher SDK - CLIK
+- Homa Games Publisher SDK - Homa Belly
+- Ketchapp Publisher SDK - Mayo SDK
 
 ## Other
 - Imaginary Roads - Small side project game developed in Unreal Engine - 
