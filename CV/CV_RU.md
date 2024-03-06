@@ -39,9 +39,11 @@
 В работе над перечисленными выше проектами были использованы следующие инструменты.
 
 - DI - [Zenject](https://github.com/modesttree/Zenject), [VContainer](https://github.com/hadashiA/VContainer)
-- Управление Ассетами - [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@1.21)
-- ECS - [Entitas](https://github.com/sschmid/Entitas), [LeoECS Lite](https://github.com/Leopotam/ecslite)
-- Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
+- Управление ассетами - [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@1.21)
+- Асинхронные операции - UniTask, System.Task
+- ECS - [DOTS](https://unity.com/dots), [Entitas](https://github.com/sschmid/Entitas)
+- Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416),
+  [LitMotion](https://github.com/AnnulusGames/LitMotion)
 - Misc - [Promises](https://github.com/Real-Serious-Games/C-Sharp-Promise)
 
 ## Ассеты и SDK
@@ -55,13 +57,15 @@
 В составе игровых студий я работал со следующими SDK:
 
 - [GameAnalytics](https://gameanalytics.com)
+- [IronSource](https://www.is.com)
 - Crazy Labs Publisher SDK - CLIK
 - Homa Games Publisher SDK - Homa Belly
 - Ketchapp Publisher SDK - Mayo SDK
 
 ## Прочее
-- Imaginary Roads - Небольшая игра, разработанная на Unreal Engine - 
+- Imaginary Roads - Небольшая игра-головоломка, разработанная на Unreal Engine - 
 [Игра](https://worrywarrior.itch.io/imaginary-roads) / [Запись Геймплея](https://youtu.be/3A6jGfA64D4)
+- [Пинг-Понг](https://github.com/WorryWarrior/C-Graphics/tree/main/ThirdProject), написанный на C++ и использующий DX11 для визуализации
 
 ## Избранные источники информации
 
@@ -69,5 +73,8 @@
 статьям, книгам и техническим докладам. Ряд избранных источников приведён ниже.
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com) - R. Nystrom
+- Game Engine Architecture - J. Gregory
+- Real-Time Rendering, 4th ed.
+- Unity Shaders Bible
 - [Red Blob Games](https://www.redblobgames.com)
 - Доклады Squirrel Eiserloh на GDC 

@@ -44,8 +44,10 @@ using something new.
 
 - DI - [Zenject](https://github.com/modesttree/Zenject), [VContainer](https://github.com/hadashiA/VContainer)
 - Asset Management - [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@1.21)
-- ECS - [Entitas](https://github.com/sschmid/Entitas), [LeoECS Lite](https://github.com/Leopotam/ecslite)
-- Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
+-  Async Operations - UniTask, System.Task
+- ECS - [DOTS](https://unity.com/dots), [Entitas](https://github.com/sschmid/Entitas)
+- Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416), 
+[LitMotion](https://github.com/AnnulusGames/LitMotion)
 - Misc - [Promises](https://github.com/Real-Serious-Games/C-Sharp-Promise)
 
 ## Assets & SDKs
@@ -59,13 +61,15 @@ using something new.
 As a part of listed studios I have worked with following SDKs:
 
 - [GameAnalytics](https://gameanalytics.com)
+- [IronSource](https://www.is.com)
 - Crazy Labs Publisher SDK - CLIK
 - Homa Games Publisher SDK - Homa Belly
 - Ketchapp Publisher SDK - Mayo SDK
 
 ## Other
-- Imaginary Roads - Small side project game developed in Unreal Engine - 
+- Imaginary Roads - Small side project puzzle game developed in Unreal Engine - 
 [Game](https://worrywarrior.itch.io/imaginary-roads) / [Gameplay Recording](https://youtu.be/3A6jGfA64D4)
+- [Ping-Pong](https://github.com/WorryWarrior/C-Graphics/tree/main/ThirdProject) game written in C++ and using DX11 for visualization
 
 ## Solutions takeaway sources
 
@@ -73,5 +77,8 @@ While working on both commercial and personal projects, I am using takeaways fro
 books and tech talks. Some of personal favourites are listed below.
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com) - R. Nystrom
+- Game Engine Architecture - J. Gregory
+- Real-Time Rendering, 4th ed.
+- Unity Shaders Bible
 - [Red Blob Games](https://www.redblobgames.com)
 - Squirrel Eiserloh GDC Talks 
