@@ -44,7 +44,7 @@ using something new.
 
 - DI - [Zenject](https://github.com/modesttree/Zenject), [VContainer](https://github.com/hadashiA/VContainer)
 - Asset Management - [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@1.21)
--  Async Operations - UniTask, System.Task
+-  Async Operations - [UniTask](https://github.com/Cysharp/UniTask), System.Task
 - ECS - [DOTS](https://unity.com/dots), [Entitas](https://github.com/sschmid/Entitas)
 - Tweening - [DOTween](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416), 
 [LitMotion](https://github.com/AnnulusGames/LitMotion)
