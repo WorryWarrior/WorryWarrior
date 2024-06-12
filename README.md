@@ -1,8 +1,7 @@
 ### Welcome
 
- I'm Dan. Computer Science Graduate from Peter the Great
- St. Petersburg Polytechnic University. Doing various Unity
- projects development for a living.
+ I'm Dan. Computer Science Graduate from St. Petersburg Polytechnic University. 
+ Doing various Unity projects development for a living.
 
 #### Primary occupation:
  - Unity (See [CV (English)](CV/CV_EN.md) / [CV (Russian)](CV/CV_RU.md) for detailed information and background)
@@ -11,12 +10,13 @@
 #### Familiar with:
 - Programming patterns application in Unity
 - SOLID principles application in Unity
-- Git-flow methodology
-
-#### Currently Exploring:
 - Building service architecture for Unity projects
 - Employing ECS approach in Unity development
 - Using Addressables in Unity projects
+- Git-flow methodology
+
+#### Currently Exploring:
+- Creating basic renderers using various Graphics APIs (DX11, Vulkan)
 
 #### Can also do:
  - Kotlin (Simple native Android, Client-Server applications)
